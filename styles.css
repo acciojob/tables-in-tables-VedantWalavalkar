@@ -13,3 +13,7 @@
 	align-content:center;
 	border:1px solid;
 }
+.black_cell{
+	color:white;
+	background:black;
+}
